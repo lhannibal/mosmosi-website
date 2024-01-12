@@ -9,6 +9,7 @@ div{
 }
 
 img{
+    width: 400px;
     margin: auto;
     display: block;
 }
@@ -19,7 +20,7 @@ img{
     color: #f6f5f0;
 }
 button{
-    width:120px;
+    width: 120px;
     height:50px;
     background-color:#f6da73;color:black;
     font-size: large;
@@ -48,7 +49,7 @@ hr{
 }
 
 span{
-    font-size: 150px;
+    font-size: 20px;
     font-family:"nabla",sans-serif;
     
 }
@@ -58,7 +59,7 @@ span{
 }
 
 iframe{
-    width: 1000px;
+    width: 500px;
     height: 500px;
     border-style: outset;
     border-width:10px;
@@ -71,8 +72,8 @@ iframe{
     border-style:double;
     border-width:20px;
     border-radius:20px;
-    width: 1000px;
-    height: 250px;
+    width: 400px;
+    height: 230px;
     font-family:"Silkscreen", sans-serif;
     font-size:22px;
     background:#f6da73;
