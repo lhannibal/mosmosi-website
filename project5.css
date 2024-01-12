@@ -1,0 +1,18 @@
+body{
+    background-color:#3e5336;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+div{
+    text-align: center;
+}
+#header1{
+    
+    font-family:"bungee spice", sans-serif;
+}
+#header2{
+    color: aliceblue;
+}
+span{
+    font-family:"nabla";
+}
